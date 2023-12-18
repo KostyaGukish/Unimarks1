@@ -20,39 +20,8 @@
 -	CSS
 -	JavaScript
 
-
-## 4. ER-модель базы данных
-
-![dbmodel](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/db.jpg)
-
-## 5. Диаграммы классов
-
-### Entity
-
-![entity](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/entity.png)
-
-### DAO
-
-![dao](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/dao.png)
-
-### Service
-
-![service](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/service.jpg)
-
-### Servlet
-
-![servlet](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/servlet.jpg)
-
-## 6. Диаграмма пакетов
+## 3. Диаграмма пакетов
 
 ![usercase2](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/packages.png)
-
-## 7. Диаграмма компонетов
-
-![components](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/components.png)
-
-## 8. Диаграмма развертывания
-
-![deployment](https://github.com/KrollikRoddzer/Ozi_Back-end/blob/main/docImages/deployment.jpg)
 
 
